@@ -432,9 +432,9 @@ iniconfig==1.1.1 \
     --hash=sha256:011e24c64b7f47f6ebd835bb12a743f2fbe9a26d4cecaa7f53bc4f35ee9da8b3 \
     --hash=sha256:bc3af051d7d14b2ee5ef9969666def0cd1a000e121eaea580d4a313df4b37f32
     # via pytest
-iso8601==1.0.2 \
-    --hash=sha256:27f503220e6845d9db954fb212b95b0362d8b7e6c1b2326a87061c3de93594b1 \
-    --hash=sha256:d7bc01b1c2a43b259570bb307f057abc578786ea734ba2b87b836c5efc5bd443
+iso8601==1.1.0 \
+    --hash=sha256:32811e7b81deee2063ea6d2e94f8819a86d1f3811e49d23623a41fa832bef03f \
+    --hash=sha256:8400e90141bf792bce2634df533dc57e3bee19ea120a87bebcd3da89a58ad73f
     # via
     #   glean-parser
     #   glean-sdk
