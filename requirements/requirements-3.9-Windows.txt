@@ -701,9 +701,9 @@ pytest-mock==3.5.1 \
     --hash=sha256:379b391cfad22422ea2e252bdfc008edd08509029bcde3c25b2c0bd741e0424e \
     --hash=sha256:a1e2aba6af9560d313c642dae7e00a2a12b022b80301d9d7fc8ec6858e1dd9fc
     # via -r dev.in
-pytest-qt==4.0.2 \
-    --hash=sha256:dfc5240dec7eb43b76bcb5f9a87eecae6ef83592af49f3af5f1d5d093acaa93e \
-    --hash=sha256:e03847ac02a890ccaac0fde1748855b9dce425aceba62005c6cfced6cf7d5456
+pytest-qt==4.2.0 \
+    --hash=sha256:00a17b586dd530b6d7a9399923a40489ca4a9a309719011175f55dc6b5dc8f41 \
+    --hash=sha256:a7659960a1ab2af8fc944655a157ff45d714b80ed7a6af96a4b5bb99ecf40a22
     # via -r gui-dev.in
 pywin32-ctypes==0.2.0 \
     --hash=sha256:24ffc3b341d457d48e8922352130cf2644024a4ff09762a2261fd34c36ee5942 \
