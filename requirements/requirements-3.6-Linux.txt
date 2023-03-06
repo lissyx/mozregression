@@ -758,9 +758,9 @@ pyside2==5.15.2 \
     --hash=sha256:4f17a0161995678110447711d685fcd7b15b762810e8f00f6dc239bffb70a32e \
     --hash=sha256:976cacf01ef3b397a680f9228af7d3d6273b9254457ad4204731507c1f9e6c3c
     # via -r gui.in
-pytest==6.2.2 \
-    --hash=sha256:9d1edf9e7d0b84d72ea3dbcdfd22b35fb543a5e8f2a60092dd578936bf63d7f9 \
-    --hash=sha256:b574b57423e818210672e07ca1fa90aaf194a4f63f3ab909a2c67ebb22913839
+pytest==7.2.2 \
+    --hash=sha256:130328f552dcfac0b1cec75c12e3f005619dc5f874f0a06e8ff7263f0ee6225e \
+    --hash=sha256:c99ab0c73aceb050f68929bc93af19ab6db0558791c6a0715723abe9d0ade9d4
     # via
     #   -r dev.in
     #   pytest-mock
